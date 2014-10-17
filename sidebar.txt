@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tcf:home|Door43 (tcf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tcf|d43-tcf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tcf/archive/master.zip|d43-tcf.zip]]
+
+**Recent Changes**
+{{changes>ns = tcf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tcf|Ethnologue data]]
+
